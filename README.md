@@ -1,6 +1,6 @@
 # JUnitFieldsDemo1
 
-Projecte per a introduïr-nos en el testing amb Java, amb la llibreria JUnit.
+Projecte per a introduïr-nos en el testing amb Java, usant la llibreria JUnit.
 S'ha usat la versió 4 de JUnit.
 
 ## Teoria i exemples JUnit.
