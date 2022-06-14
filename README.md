@@ -1,4 +1,4 @@
-# JUnitFieldsDemo1
+# M15-UF1-A02-JUnitFieldsDemo1
 
 Projecte per a introduïr-nos en el testing amb Java, usant la llibreria JUnit.
 S'ha usat la versió 4 de JUnit.
