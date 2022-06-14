@@ -8,5 +8,6 @@ S'ha usat la versió 4 de JUnit.
 <a href="https://opencredo.com/blogs/tdd-fizzbuzz-junit-theories/">Exemple FizzBuzz, per entendre com funcina el testing unitari.</a>
 
 ## Document propi, passos per configurar i arrencar tests amb JUnit.
+<a href="https://github.com/miquelamorosaldev/JUnitFieldsDemo1/blob/master/M15-UF1-NF1-A02-TestingJUnit.pdf">M15-UF1-NF1-A02-TestingJUnit.pdf</a>
 
 
